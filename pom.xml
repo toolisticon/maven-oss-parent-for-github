@@ -72,16 +72,6 @@
                     </executions>
                 </plugin>
 
-                <!-- coveralls -->
-                <plugin>
-                    <groupId>org.eluder.coveralls</groupId>
-                    <artifactId>coveralls-maven-plugin</artifactId>
-                    <version>${coveralls-maven-plugin.version}</version>
-                    <configuration>
-                        <repoToken>${COVERALL_TOKEN}</repoToken>
-                    </configuration>
-                </plugin>
-
                 <!-- gitflow -->
                 <plugin>
                     <groupId>com.amashchenko.maven.plugin</groupId>
@@ -158,11 +148,6 @@
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
-            </plugin>
-
-            <plugin>
-                <groupId>org.eluder.coveralls</groupId>
-                <artifactId>coveralls-maven-plugin</artifactId>
             </plugin>
 
         </plugins>
