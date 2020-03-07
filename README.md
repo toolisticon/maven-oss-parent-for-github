@@ -3,13 +3,13 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.toolisticon.maven/maven-oss-parent-for-github/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.toolisticon.maven/maven-oss-parent-for-github)
 ![default](https://github.com/toolisticon/maven-oss-parent-for-github/workflows/default/badge.svg?branch=develop)
 
-Maven oss parent that supports releases build with github actions.
+Maven OSS parent that supports releases build with github actions.
 
 Enhances parent provided by https://github.com/toolisticon/maven-oss-parent.
 
 Inspired by https://github.com/toolisticon/foss-github-actions-java
 
-##Prerequisites
+## Prerequisites
 
 - Add maven wrapper to your project : check https://github.com/takari/maven-wrapper
 - create developer branch and configure it as default
