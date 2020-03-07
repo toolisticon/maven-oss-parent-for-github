@@ -36,5 +36,7 @@ SONATYPE_USERNAME
 
 ## Workflow
 The maven gitflow plugin is used to prepare and do releases. 
+
 Development will happen on develop branch. 
-Releases will be build on a release branch an later merged and pushed to master which triggers the release build via github actions.
+
+Releases will be prepared and executed on a release branch an later merged and pushed to master which triggers the release build via github actions.
