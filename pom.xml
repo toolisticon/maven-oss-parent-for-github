@@ -235,6 +235,12 @@
     </organization>
 
     <developers>
+
+        <developer>
+            <id>zambrovski</id>
+            <name>Simon Zambrovski</name>
+            <organization>${project.organization.name}</organization>
+        </developer>
         <developer>
             <id>tobiasstamann</id>
             <name>Tobias Stamann</name>
