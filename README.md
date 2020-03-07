@@ -40,3 +40,7 @@ The maven gitflow plugin is used to prepare and do releases.
 Development will happen on develop branch. 
 
 Releases will be prepared and executed on a release branch an later merged and pushed to master which triggers the release build via github actions.
+
+# License
+
+This project is released under the revised [MIT License](LICENSE).
