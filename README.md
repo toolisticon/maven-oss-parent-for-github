@@ -20,7 +20,7 @@ Inspired by https://github.com/toolisticon/foss-github-actions-java
 <dependency>
     <groupId>io.toolisticon.maven</groupId>
     <artifactId>maven-oss-parent-for-github</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
